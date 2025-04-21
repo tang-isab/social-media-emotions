@@ -11,4 +11,4 @@ This project compares three sentiment analysis models—SVM (TF-IDF), SVM (word 
 | BERT                  | 0.97     | 0.92     | 0.91     | 0.93      |
 
 ## Acknowledgements
-Course project for CSE 404 2024 at Michigan State University.
+Course project for CSE 404 2024 at Michigan State University with John Lee, Bea Lu, Holly Sederlund, and Gabriella Stickney.
